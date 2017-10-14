@@ -18,6 +18,8 @@ Dew : KwvVeXkp_3Q, 80s, 29fps
 
 Bar : HsQfQPtPIxU, 10s, 29fps
 
+You can download the resultant videos at : https://drive.google.com/open?id=0B1i982BHI_VFS1ZDUHRlb2xUamc
+
 Each folder presents the path and the velocity of the virtual head movement in our experiments.
 
 Please see the paper for the more details about the method.
