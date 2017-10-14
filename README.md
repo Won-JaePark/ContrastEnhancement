@@ -1,4 +1,4 @@
-# ContrastEnhancement
+# Contrast enhancement for 360 degree vid-eos considering the head motion
 
 Experimental results - written by Won-Jae Park, wjpark@dali.korea.ac.kr
 
